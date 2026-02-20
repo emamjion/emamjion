@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Emam Jion, MERN Stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" (https://cdn-icons-png.flaticon.com/512/197/197509.png (https://cdn-icons-png.flaticon.com/512/197/197509.png))" width="13"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Dhaka, Bangladesh</b>. </p>
