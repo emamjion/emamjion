@@ -86,9 +86,9 @@ Complete e-commerce solution with admin panel and secure payment integration.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 🌐 Portfolio: (Add your portfolio link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/emam-khalid-jion/
+- 🌐 Portfolio: [(Add your portfolio link)](https://portfolio-nextjs-frontend.vercel.app/
+- 📧 Email: emamjion@gmail.com
 
 ---
 
