@@ -30,6 +30,7 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 - Next.js
 - TypeScript
 - Redux / RTK Query
+- Zustand
 - Tailwind CSS
 - HTML5 / CSS3
 - JavaScript (ES6+)
