@@ -17,7 +17,7 @@ I specialize in creating clean, responsive, and user-friendly interfaces using m
 I enjoy transforming ideas into real-world digital products and continuously improving my skills in React, Next.js, and full-stack development.
 
 - 🔭 Currently working on full-stack web applications  
-- 🌱 Improving my advanced React & system design knowledge  
+- 🌱 Improving my advanced React, Nextjs & system design knowledge  
 - 💬 Ask me about React, Next.js, Node.js, MongoDB  
 - ⚡ Love building real-world problem-solving projects  
 
