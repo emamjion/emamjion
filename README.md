@@ -18,7 +18,7 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 
 - 🔭 Currently working on full-stack web applications  
 - 🌱 Improving my advanced React, Nextjs & system design knowledge  
-- 💬 Ask me about React, Next.js, Node.js, MongoDB  
+- 💬 Ask me about React.js, Next.js, Node.js, MongoDB  
 - ⚡ Love building real-world problem-solving projects  
 
 ---
@@ -68,7 +68,7 @@ Full-stack food ordering web application with authentication, cart system, and p
 ### 🐾 Wildbites
 Modern responsive website with optimized frontend performance.
 
-**Tech Used:** Nextjs, Reactjs, Tailwind CSS
+**Tech Used:** Nextjs, Reactjs, Tailwind CSS, Framer motion
 
 ---
 
