@@ -19,7 +19,7 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 - 🔭 Currently working on full-stack web applications  
 - 🌱 Improving my advanced React.js, Nextjs & system design knowledge  
 - 💬 Ask me about React.js, Next.js, Node.js, MongoDB  
-- ⚡ Love building real-world problem-solving projects  
+- ⚡ Love building real-world problem-solving projects.
 
 ---
 
