@@ -32,6 +32,7 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 - Redux / RTK Query
 - Zustand
 - Tailwind CSS
+- Bootstrap
 - HTML5 / CSS3
 - JavaScript (ES6+)
 
