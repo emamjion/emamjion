@@ -50,6 +50,7 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 - Postman
 - Firebase
 - Stripe Integration
+- SSLCommerz Integration
 - NextAuth
 - Deployment (Vercel / Render)
   
