@@ -99,6 +99,7 @@ Complete e-commerce solution with admin panel and secure payment integration.
 - 💼 LinkedIn: https://www.linkedin.com/in/emam-khalid-jion/
 - 🌐 Portfolio: https://portfolio-nextjs-frontend.vercel.app/
 - 📧 Email: emamjion@gmail.com
+- Phone: +880 1727 08 7717
 
 ---
 
