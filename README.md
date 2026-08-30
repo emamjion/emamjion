@@ -58,7 +58,6 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 - Shadcn UI
 - Material UI
 - Ant Design
-- BeUI
 ---
 
 ## 📌 Featured Projects
