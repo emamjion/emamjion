@@ -65,7 +65,7 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 ### 🍽 Bitewave – Food Ordering Platform
 Full-stack food ordering web application with authentication, cart system, and payment integration.
 
-**Tech Used:** React, Node.js, MongoDB, Stripe, Tailwind CSS
+**Tech Used:** React, Node.js, MongoDB, Stripe, Tailwind CSS, Framer Motion
 
 ---
 
