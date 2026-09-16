@@ -41,6 +41,7 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 - Express.js
 - MongoDB
 - Postgresql
+- Prisma
 - TypeScript
 - Mongoose
 - REST APIs
