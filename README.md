@@ -45,6 +45,7 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 - TypeScript
 - Mongoose
 - REST APIs
+- Nest Js
 
 ### ⚙️ Tools & Others
 - Git & GitHub
