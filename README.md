@@ -14,7 +14,7 @@
 I’m a passionate Full Stack Developer with 2+ years of experience building dynamic and scalable web applications.  
 I specialize in creating clean, responsive, and user-friendly interfaces using modern frontend technologies.
 
-I enjoy transforming ideas into real-world digital products and continuously improving my skills in React, Next.js, and full-stack development.
+I enjoy transforming ideas into real-world digital products and continuously improving my skills in React, Next.js, TypeScript ,and full-stack development.
 
 - 🔭 Currently working on full-stack web applications  
 - 🌱 Improving my advanced React.js, Nextjs & system design knowledge  
