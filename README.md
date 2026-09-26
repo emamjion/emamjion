@@ -23,7 +23,7 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### 💻 Frontend
 - React.js
