@@ -54,7 +54,7 @@ I enjoy transforming ideas into real-world digital products and continuously imp
 - Stripe Integration
 - SSLCommerz Integration
 - NextAuth
-- Deployment (Vercel / Render)
+- Deployment (Vercel / Render / Netlify)
   
 ### 💻 UI Liberaries
 - Shadcn UI
